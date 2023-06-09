@@ -1,4 +1,4 @@
-![image](https://github.com/thiagoHo/thiagoHo/assets/135985268/738017b0-b80d-4edb-882e-a6ad321c09be)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009A44&height=110&section=header"/>
 
