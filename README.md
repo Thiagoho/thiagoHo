@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009A44&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fBCff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Henrique+de+O+Sales;I'm+34+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fBCff&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Henrique+de+O+Sales;I'm+34+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoHo&show_icons=true&count_private=true&hide_border=true&title_color=B3E820&icon_color=009A44&text_color=07E607&bg_color=0d1117" alt="Thiago Henrique de O Sales github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoHo&layout=compact&hide_border=true&title_color=00873E&text_color=3fD485&bg_color=0d1117" />
