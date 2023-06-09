@@ -1,3 +1,5 @@
+![image](https://github.com/thiagoHo/thiagoHo/assets/135985268/738017b0-b80d-4edb-882e-a6ad321c09be)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009A44&height=110&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0fBCff&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thiago+Henrique+de+O+Sales;I'm+34+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
